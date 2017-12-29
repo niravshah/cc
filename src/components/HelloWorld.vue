@@ -38,27 +38,6 @@
                     <li><a href="index5.html">HomePage Style 5</a></li>
                   </ul>
                 </li>
-                <li><a href="#">Hosting <span class="down-badge-color-3 main-badge">Free</span></a>
-                  <ul>
-                    <li><a href="shared-servers.html">Shared Hosting</a>
-                      <ul>
-                        <li><a href="shared-servers.html">Shared Servers Based</a></li>
-                        <li><a href="shared-period.html">Shared Period Based</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="vps-slider-4-plans.html">VPS Servers</a>
-                      <ul>
-                        <li><a href="vps-slider-3-plans.html">3 Plans Slider</a></li>
-                        <li><a href="vps-slider-4-plans.html">4 Plans Slider</a></li>
-                        <li><a href="vps-slider-5-plans.html">5 Plans Slider</a></li>
-                        <li><a href="vps-slider-6-plans.html">6 Plans Slider</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="servers.html">Dedicated Servers</a></li>
-                    <li><a href="cloud.html">Cloud Servers</a></li>
-                    <li><a href="servers.html">Servers</a></li>
-                  </ul>
-                </li>
                 <li><a href="domain-pricing.html">Domains</a>
                   <ul>
                     <li><a href="domain-pricing.html">Domain Pricing</a></li>
